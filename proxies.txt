@@ -1,0 +1,2 @@
+http://45.249.247.189:6200
+http://bojong-zone-custom-region-ID:bojong@45.249.247.189:6200
